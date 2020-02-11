@@ -11,7 +11,9 @@ Type3 ![](images/3.png) Type4 ![](images/4.png)
 
 Type5 ![](images/5.png) Type6 ![](images/6.png)
 
-Type7 ![](images/7.png) Type8 ![](images/8.png) Type9 ![](images/9.png)
+Type7 ![](images/7.png) Type8 ![](images/8.png)
+
+Type9 ![](images/9.png)
 
 Type10 ![](images/10.png)
 
