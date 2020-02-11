@@ -1,13 +1,15 @@
 ## MMM-BagOfClocks
 
 * Just a bag of clocks. They are what they are.
-* Not customizable.
+* Not customizable much.
 
 ## Examples
 
-Type1 ![](images/1.png) Type2 ![](images/2.png) Type3 ![](images/3.png)
+Type1 ![](images/1.png) Type2 ![](images/2.png)
 
-Type4 ![](images/4.png) Type5 ![](images/5.png) Type6 ![](images/6.png)
+Type3 ![](images/3.png) Type4 ![](images/4.png)
+
+Type5 ![](images/5.png) Type6 ![](images/6.png)
 
 Type7 ![](images/7.png) Type8 ![](images/8.png) Type9 ![](images/9.png)
 
